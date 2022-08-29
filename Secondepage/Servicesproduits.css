@@ -1,0 +1,335 @@
+.imgcle {
+    position: relative ;
+ 
+  size-adjust: cover;
+  height: auto;
+  
+}
+.image {
+    display: flex;
+    padding-top: 10vh  ;
+    padding-bottom: 10vh;
+    justify-content: center;
+}
+
+.un {
+    background-image: url(../Image/protector16papi.jfif);
+    background-size: cover;
+    width: 60vh;
+    height: 40vh;
+    background-position: center;
+
+    transition: 1s;
+}
+
+
+
+.imgcle:hover {
+    outline-offset: 2rem;
+    border-radius: 2px;
+    -webkit-transform: scale(1.1);
+    z-index: 10;
+    size-adjust: 120px;
+    transition: all .2s;
+}
+
+.serrr {
+    text-align: center;
+    font-size: 7vh;
+    text-decoration: underline;
+    padding: 100px 0px;
+    font-family: 'Cormorant SC', serif;
+}
+
+.cle {
+    border-top: 1px solid black;
+}
+.clee {
+    font-size: 50px;
+    text-align: center;
+}
+
+.cleee {
+    text-align: center;
+    font-size: 3.5vh;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+}
+.spann {
+    text-decoration: underline;
+}
+
+.porte {
+    border-top: 1px solid black
+    ;
+    background-color: 	#A9A9A9;
+}
+.portee {
+    font-size: 50px;
+    text-align: center;
+}
+.porteee {
+    text-align: center;
+    font-size: 3.5vh;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+}
+
+
+.unp {
+    background-image: url(../Image/blindee.jpg);
+    background-size: cover;
+    width: 60vh;
+    height: 40vh;
+    background-position: center;
+
+    transition: 1s;
+}
+
+
+
+.imgporte:hover {
+    outline-offset: 2rem;
+    border-radius: 2px;
+    -webkit-transform: scale(1.1);
+    z-index: 10;
+    size-adjust: 120px;
+    transition: all .2s;
+}
+.volets {
+    border-top: 1px solid black;
+}
+.volee {
+    font-size: 50px;
+    text-align: center;
+
+}
+.voleee {
+    text-align: center;
+    font-size: 3.5vh;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+}
+
+.unv {
+    background-image: url(../Image/voletroulant.jfif);
+    background-size: cover;
+    width: 60vh;
+    height: 40vh;
+    background-position: center;
+
+    transition: 1s;
+}
+
+
+
+.imgvolee:hover {
+    outline-offset: 2rem;
+    border-radius: 2px;
+    -webkit-transform: scale(1.1);
+    z-index: 10;
+    size-adjust: 120px;
+    transition: all .2s;
+}
+
+.fenetre {
+    background-color: 	#A9A9A9;
+    border-top: 1px solid black;
+}
+.fenetree {
+    font-size: 50px;
+    
+    text-align: center;
+}
+.fenetreee { 
+    text-align: center;
+    font-size: 3.5vh;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+}
+
+.unf {
+    background-image: url(../Image/fenetress.jpg);
+    background-size: cover;
+    width: 60vh;
+    height: 40vh;
+    background-position: center;
+
+    transition: 1s;
+}
+
+
+
+.imgfene:hover {
+    outline-offset: 2rem;
+    border-radius: 2px;
+    -webkit-transform: scale(1.1);
+    z-index: 10;
+    size-adjust: 120px;
+    transition: all .2s;
+}
+
+.alarme {
+    border-top: 1px solid black;
+}
+.alarmee {
+    font-size: 50px;
+    text-align: center;
+}
+.second {
+    padding-top: 0;
+    margin-top: 0;
+    
+}
+.alarmeee { 
+    margin-bottom: 0;
+    padding-bottom: 0;
+    text-align: center;
+    font-size: 3.5vh;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+}
+
+.una{
+    background-image: url(../Image/camerafond.jpg);
+    background-size: cover;
+    width: 60vh;
+    height: 40vh;
+    background-position: center;
+
+    transition: 1s;
+}
+
+
+
+.imgala:hover {
+    outline-offset: 2rem;
+    border-radius: 2px;
+    -webkit-transform: scale(1.1);
+    z-index: 10;
+    size-adjust: 120px;
+    transition: all .2s;
+}
+
+
+.serure {
+    border-top: 1px solid black;
+    background-color: 	#A9A9A9;
+}
+.seruree {
+    font-size: 50px;
+    text-align: center;
+}
+
+.serureee { 
+    margin-bottom: 0;
+    padding-bottom: 0;
+    text-align: center;
+    font-size: 3.5vh;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+}
+
+.uns{
+    background-image: url(../Image/serrure.jpg  );
+    background-size: cover;
+    width: 60vh;
+    height: 40vh;
+    background-position: center;
+
+    transition: 1s;
+}
+
+
+
+.imgser:hover {
+    outline-offset: 2rem;
+    border-radius: 2px;
+    -webkit-transform: scale(1.1);
+    z-index: 10;
+    size-adjust: 120px;
+    transition: all .2s;
+}
+.bloc {
+    border-top: 1px solid black;
+   
+}
+.blocc {
+    font-size: 50px;
+    text-align: center;
+}
+
+.bloccc { 
+    margin-bottom: 0;
+    padding-bottom: 0;
+    text-align: center;
+    font-size: 3.5vh;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+}
+
+.unb{
+    background-image: url(../Image/portefond.jpg  );
+    background-size: cover;
+    width: 60vh;
+    height: 40vh;
+    background-position: center;
+
+    transition: 1s;
+}
+
+
+
+.imgblo:hover {
+    outline-offset: 2rem;
+    border-radius: 2px;
+    -webkit-transform: scale(1.1);
+    z-index: 10;
+    size-adjust: 120px;
+    transition: all .2s;
+}
+
+.contact{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+@keyframes flot {
+    0%{ top: 0px;}
+    50% { top: 10px;}
+    100% { top: 0px;}
+}
+.titre {
+    animation: flot infinite 2s ease-in-out;
+    position: relative;
+
+    font-family: 'Inter', sans-serif;
+    /* background: linear-gradient(to top, rgba(255,0,0,0.5) 0%, rgba(255,0,0,0.5)4px, transparent 5px) no-repeat;
+    background-size: 0 100%; */
+    transition: 1s;
+}
+
+.titre:hover {
+
+   background-size: 100% 100%;
+text-decoration: underline #1F1F1F ;
+transition: 5s;
+
+    
+}

@@ -1,0 +1,128 @@
+.offres {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    text-decoration: underline;
+    border-bottom: dashed 1px black;
+    padding-bottom: 100px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Cormorant SC', serif;
+    background-color: #f2eee3;
+    
+}
+a {
+    text-decoration: none;
+}
+
+.header {
+    margin-bottom: 10pxs;
+    position: unset;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Cormorant SC', serif;
+}
+
+.ofun {
+    text-align: center;
+}
+
+.un {
+font-size: 40px;
+}
+
+.unp {
+    
+    font-size: 30px;
+    font-family: 'PT Sans', sans-serif;
+}
+.imageun {
+    width: 500px;
+    transition: 1s;
+    
+}
+.imageun:hover {
+    -webkit-transform: scale(1.1); 
+    transition: 1s;
+}
+.prixx {
+    display: flex;
+    justify-content: center;
+}
+
+.prix {
+    font-size: 30px;
+padding: 15px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 0.5s;
+    border: 1px solid black;
+}
+.prix:hover {
+    -webkit-transform: scale(1.1);
+    transition: 1s;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+
+.prixxx {
+    text-decoration: none;
+}
+
+.ofdeux {
+    border-top: dashed 1px black;
+    text-align: center;
+}
+.deux {
+    font-size: 40px;
+}
+
+.deuxp {
+    font-size: 30px;
+}
+.deuxp {
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+.imagedeux {
+    width: 500px;
+    transition: 1s;
+    
+}
+.imagedeux:hover {
+    -webkit-transform: scale(1.1); 
+    transition: 1s;
+}
+
+
+
+.row{
+    display: flex;
+   
+}
+.rue {
+    margin-left: 0;
+    width: 30vh;
+}
+.con {
+   
+    width: 20vh;
+    padding-left: 20vh;
+    
+}
+.pag {
+    margin: 0;
+    width: 20vh;
+    padding-left: 20vh;
+
+}
+.lie {
+    width: 20vh;
+    padding-left: 20vh;
+}
